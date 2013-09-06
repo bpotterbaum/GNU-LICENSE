@@ -1,4 +1,9 @@
-GNU-LICENSE
+Some Name
 ===========
 
-GNU GENERAL PUBLIC LICENSE FILE
+Somthing about the project
+
+
+### license
+
+Licensed under GNU.
